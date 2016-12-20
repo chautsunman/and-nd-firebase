@@ -43,6 +43,10 @@ dependencies {
 
     // database
     compile 'com.google.firebase:firebase-database:10.0.1'
+
+    // authentication
+    compile 'com.google.firebase:firebase-auth:9.6.0'
+    compile 'com.firebaseui:firebase-ui-auth:0.6.0'
 }
 
 apply plugin: 'com.google.gms.google-services'
