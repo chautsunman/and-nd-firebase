@@ -50,6 +50,9 @@ dependencies {
 
     // storage
     compile 'com.google.firebase:firebase-storage:10.0.1'
+
+    // notification
+    compile 'com.google.firebase:firebase-messaging:10.0.1'
 }
 
 apply plugin: 'com.google.gms.google-services'
