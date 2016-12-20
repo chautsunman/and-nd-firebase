@@ -53,6 +53,9 @@ dependencies {
 
     // notification
     compile 'com.google.firebase:firebase-messaging:10.0.1'
+
+    // remote config
+    compile 'com.google.firebase:firebase-config:10.0.1'
 }
 
 apply plugin: 'com.google.gms.google-services'
